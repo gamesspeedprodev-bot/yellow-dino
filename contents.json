@@ -30,7 +30,6 @@
         { "image_file": "13.webp", "emojis": ["❓", "🤔"] },
         { "image_file": "14.webp", "emojis": ["🌈", "😜"] },
         { "image_file": "15.webp", "emojis": ["💻", "😩"] }
-      
       ]
     }, 
     {
@@ -61,7 +60,7 @@
         { "image_file": "13.webp", "emojis": ["😍", "💑"] }
       ]
     },
-      {
+    {
       "identifier": "3",
       "name": "Pack3",
       "publisher": "Pack3",
@@ -89,7 +88,7 @@
         { "image_file": "13.webp", "emojis": ["😍", "💑"] }
       ]
     },
-     {
+    {
       "identifier": "4",
       "name": "Pack4",
       "publisher": "Pack4",
@@ -114,7 +113,7 @@
         { "image_file": "10.webp", "emojis": ["😍", "💑"] }
       ]
     },
-      {
+    {
       "identifier": "5",
       "name": "Pack5",
       "publisher": "Pack5",
@@ -139,10 +138,9 @@
         { "image_file": "23.webp", "emojis": ["😭", "💧"] },
         { "image_file": "24.webp", "emojis": ["😭", "💧"] },
         { "image_file": "25.webp", "emojis": ["😭", "💧"] }
-     
       ]
     },
-        {
+    {
       "identifier": "6",
       "name": "Pack6",
       "publisher": "Pack6",
@@ -168,8 +166,7 @@
         { "image_file": "24.webp", "emojis": ["😍", "💑"] }
       ]
     },
-
-     {
+    {
       "identifier": "7",
       "name": "Pack7",
       "publisher": "Pack7",
@@ -195,10 +192,5 @@
         { "image_file": "21.webp", "emojis": ["😘", "🍪"] }
       ]
     }
-
-    
-
-    
-    
   ]
 }
