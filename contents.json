@@ -195,9 +195,9 @@
       ]
     },
      {
-      "identifier": "1",
-      "name": "Pack1",
-      "publisher": "Pack1",
+      "identifier": "10",
+      "name": "Pack10",
+      "publisher": "Pack10",
       "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
