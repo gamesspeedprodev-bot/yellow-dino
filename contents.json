@@ -167,6 +167,33 @@
         { "image_file": "20.webp", "emojis": ["😘", "🍪"] },
         { "image_file": "21.webp", "emojis": ["😘", "🍪"] }
       ]
+    },
+
+     {
+      "identifier": "3",
+      "name": "Pack3",
+      "publisher": "Pack3",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "is_premium": false,
+      "stickers": [
+        { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "2.webp", "emojis": ["😄", "😀"] },
+        { "image_file": "3.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "4.webp", "emojis": ["😩", "😰"] },
+        { "image_file": "5.webp", "emojis": ["😭", "💧"] },
+        { "image_file": "6.webp", "emojis": ["😍", "♥"] },
+        { "image_file": "7.webp", "emojis": ["💔", "👎"] },
+        { "image_file": "8.webp", "emojis": ["😍", "💑"] },
+        { "image_file": "9.webp", "emojis": ["😘", "🍪"] }
+        
+      ]
     }
+    
   ]
 }
