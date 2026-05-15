@@ -170,9 +170,9 @@
     },
 
      {
-      "identifier": "3",
-      "name": "Pack3",
-      "publisher": "Pack3",
+      "identifier": "8",
+      "name": "Pack8",
+      "publisher": "Pack8",
       "tray_image_file": "tray.png",
       "image_data_version": "1",
       "avoid_cache": false,
