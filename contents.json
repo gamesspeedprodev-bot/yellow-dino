@@ -208,6 +208,7 @@
       "is_premium": false,
       "stickers": [
         { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
+        { "image_file": "10.webp", "emojis": ["🤔", "😐"] },
         { "image_file": "2.webp", "emojis": ["😄", "😀"] },
         { "image_file": "3.webp", "emojis": ["😆", "😂"] },
         { "image_file": "4.webp", "emojis": ["😩", "😰"] },
@@ -215,8 +216,8 @@
         { "image_file": "6.webp", "emojis": ["😍", "♥"] },
         { "image_file": "7.webp", "emojis": ["💔", "👎"] },
         { "image_file": "8.webp", "emojis": ["😍", "💑"] },
-        { "image_file": "9.webp", "emojis": ["😘", "🍪"] },
-        { "image_file": "10.webp", "emojis": ["🤔", "😐"] }
+        { "image_file": "9.webp", "emojis": ["😘", "🍪"] }
+      
        
       ]
     }
